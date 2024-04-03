@@ -1,5 +1,5 @@
 [
-    {"text": "", "image": "", "choices": "[a,b,c]"},
-    {"text": "", "image": "", "choices": "[a,b,c]"},
-    {"text": "", "image": "", "choices": "[a,b,c]"}
-  ]
+  {"text": "", "image": "", "choices": ["a", "b", "c"]},
+  {"text": "", "image": "", "choices": ["a", "b", "c"]},
+  {"text": "", "image": "", "choices": ["a", "b", "c"]}
+]
